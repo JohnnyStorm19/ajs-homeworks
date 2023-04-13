@@ -1,3 +1,3 @@
 # ajs-homeworks
 
-[Рабочее окружение](working-enviroment/)
+[1. Рабочее окружение](working-enviroment/)
