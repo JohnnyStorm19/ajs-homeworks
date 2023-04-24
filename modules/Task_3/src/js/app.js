@@ -2,3 +2,4 @@ import Game, {GameSavingData, readGameSaving as loadgame, writeGameSaving as sav
 
 const game = new Game();
 game.start();
+console.log('app worked');
