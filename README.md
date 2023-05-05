@@ -6,3 +6,6 @@
    - [Unit-test Task_1](https://github.com/JohnnyStorm19/Unit-test-Task_1)
    - [Unit-test Task_2](https://github.com/JohnnyStorm19/Unit-test-Task_2)
    - [Unit-test Task_3](https://github.com/JohnnyStorm19/Unit-test-Task_3)
+4. Классы, наследование
+   - [Task_1](https://github.com/JohnnyStorm19/ajs-oop-task_1)
+   - [Task_2](https://github.com/JohnnyStorm19/ajs-oop-task_2)
