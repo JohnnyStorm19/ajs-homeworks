@@ -12,3 +12,6 @@
 5. Object, Reflection и Proxy
    - [Task_1](https://github.com/JohnnyStorm19/ajs-object-task_1)
    - [Task_2](https://github.com/JohnnyStorm19/ajs-object-task_2)
+6. Регулярные выражения
+   - [Task_1](https://github.com/JohnnyStorm19/ajs-regexp-task_1)
+   - [Task_2](https://github.com/JohnnyStorm19/ajs-regexp-task_2)
