@@ -15,3 +15,7 @@
 6. Регулярные выражения
    - [Task_1](https://github.com/JohnnyStorm19/ajs-regexp-task_1)
    - [Task_2](https://github.com/JohnnyStorm19/ajs-regexp-task_2)
+7. Контейнеры
+   - [Task_1](https://github.com/JohnnyStorm19/ajs-containers-task_1)
+   - [Task_2](https://github.com/JohnnyStorm19/ajs-containers-task_2)
+   - [Task_3](https://github.com/JohnnyStorm19/ajs-containers-task_3)
